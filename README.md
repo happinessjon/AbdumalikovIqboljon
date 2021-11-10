@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi there 👋, I'm Iqboljon Abdumalikov
 
-<!--
-**AbdumalikovIqboljon/AbdumalikovIqboljon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CONTACT
+  - Email: happinessjonabdumalikov@gmail.com,
+  - Phone number: +998907705702     
+TECHNICAL SKILLS
+  - HTML/CSS, Javascript, SCSS.
+EDUCATION
+  - MayoqHub IT academy based on self-study with mentor
+    - Frontend development
+      I learned frontend development from zero to advanced with the help of senior
+      developer who gave me feedbacks for my projects developed during my
+      studies.
+    - I’m currently learning React Framework.
+LANGUAGE
+  - English
+  - Russian (a little).
+INTERESTS
+  - Big fan of football
+  - Crazy about playing DotA 1(Defence of the Ancients).
