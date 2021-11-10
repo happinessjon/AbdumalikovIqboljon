@@ -5,6 +5,7 @@ CONTACT
   - Phone number: +998907705702     
 TECHNICAL SKILLS
   - HTML/CSS, Javascript, SCSS.
+ 
 EDUCATION
   - MayoqHub IT academy based on self-study with mentor
     - Frontend development
@@ -15,6 +16,7 @@ EDUCATION
 LANGUAGE
   - English
   - Russian (a little).
+
 INTERESTS
   - Big fan of football
   - Crazy about playing DotA 1(Defence of the Ancients).
