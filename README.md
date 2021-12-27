@@ -4,7 +4,10 @@ CONTACT
   - Email: happinessjonabdumalikov@gmail.com,
   - Phone number: +998907705702     
 TECHNICAL SKILLS
-  - HTML/CSS, Javascript, SCSS.
+  - HTML/CSS, Javascript, SCSS, Bootstrap.
+
+LEARNING NOW
+  - ReactJS Library
  
 EDUCATION
   - MayoqHub IT academy based on self-study with mentor
