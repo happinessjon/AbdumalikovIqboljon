@@ -1,0 +1,11 @@
+.brands {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.brands__link {
+    text-decoration: none;
+}
+.brands__link img {
+    display: block;
+}

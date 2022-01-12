@@ -1,0 +1,47 @@
+.benefits {
+    padding: 0;
+    margin: 0;
+    margin-top: 58px;
+    list-style-type: none;
+}
+.benefits__item {
+    display: flex;
+    align-items: flex-start;
+    width: 540px;
+    margin-bottom: 32px;
+}
+.benefits__item::before {
+    content: "";
+    width: 115px;
+    height: 72px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;   
+}
+
+.benefits__item--individuals::before {
+    background-image: url("../../images/experienced-individuals.svg");
+}
+.benefits__item--easy::before {
+    background-image: url("../../images/easy-to-emplement.svg");
+}
+.benefits__item--productivity::before {
+    width: 115px;
+    height: 80px;
+    background-image: url("../../images/enhanced-productivity.svg");
+}
+.benefits__info {
+    padding-left: 23px;
+}
+.benefits__heading {
+    font-size: 18px;
+    line-height: 28px;
+    color: $color-light-coral;
+    margin-bottom: 16px;
+}
+.benefits__desc {
+    font-size: 15px;
+    line-height: 25px;
+    color: #ffffffcc;
+    margin: 0;
+}

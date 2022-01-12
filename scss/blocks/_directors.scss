@@ -1,0 +1,19 @@
+.directors {
+    background-image: url("../../images/directors-left-bg.svg"),
+                      url("../../images/directors-right-bottom-bg.svg");
+    background-repeat: no-repeat,
+                       no-repeat;
+    background-size: 200px 200px,
+                     147px 100px;
+    background-position: calc(50% - 674px) calc(50% - 390px),
+                         calc(50% + 601px) calc(50% + 440px);
+    padding-top: 140px;
+    padding-bottom: 140px;
+    background-color: $color-deep-jungle-green;
+}
+.directors__heading {
+    font-size: 48px;
+    line-height: 48px;
+    text-align: center;
+    margin-bottom: 64px;
+}

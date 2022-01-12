@@ -1,0 +1,42 @@
+.review {
+  @include flex-column;
+  align-items: center;
+  text-align: center;
+}
+
+.review__text {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 24px;
+  font-size: 15px;
+  line-height: 25px;
+}
+
+.review__author {
+  margin-top: 0;
+  margin-bottom: 2px;
+  color: $color-rapture-blue;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.review__author-position {
+  margin-top: 0;
+  font-size: 13px;
+  line-height: 18px;
+  margin-bottom: 32px;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.review__author-image {
+  border-radius: 50%;
+  transition: transform 0.4s ease;
+
+}
+
+.review:hover .review__author-image {
+  transform: rotate(-15deg);
+}

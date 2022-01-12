@@ -1,0 +1,40 @@
+@mixin list-unstyled {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+@mixin flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+@mixin triangle-up ($size: 10px) {
+  border-left: $size solid transparent;
+  border-right: $size solid transparent;
+  border-bottom: $size solid #000;
+}
+
+@mixin triangle-down ($size: 10px) {
+  border-left: $size solid transparent;
+  border-right: $size solid transparent;
+  border-top: $size solid #000;
+}
+
+@mixin breakpoint-down ($breakpoint) {
+  @media only screen and (max-width: $breakpoint) {
+    @content;
+  }
+}
+
+@mixin breakpoint-up ($breakpoint) {
+  @media only screen and (min-width: $breakpoint) {
+    @content;
+  }
+}
+
+@mixin breakpoint-between ($min-breakpoint, $max-breakpoint) {
+  @media only screen and (min-width: $min-breakpoint) and (max-width: $max-breakpoint) {
+    @content;
+  }
+}

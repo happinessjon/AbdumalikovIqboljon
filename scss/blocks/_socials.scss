@@ -1,0 +1,18 @@
+.socials {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-bottom: 51px;
+}
+.socials__link {
+    margin-left: 16px;
+    &:hover svg path {
+        fill: $color-light-coral;
+    }
+}
+.socials__link svg path {
+    transition: fill 0.2s linear;
+}
+.socials__link svg {
+    display: block;
+}

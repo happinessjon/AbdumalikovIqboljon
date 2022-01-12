@@ -1,0 +1,15 @@
+.clients {
+    padding-top: 140px;
+    padding-bottom: 140px;
+    background-color: $color-sacramento-state-green;
+    background-image: url("../../images/clients-left-top-bg.svg");
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    background-position: calc(50% - 574px) calc(50% - 119px);
+}
+.clients__heading {
+    text-align: center;
+    font-size: 48px;
+    line-height: 48px;
+    margin-bottom: 64px;
+}

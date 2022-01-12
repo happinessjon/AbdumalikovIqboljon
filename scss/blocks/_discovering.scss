@@ -1,0 +1,29 @@
+.discovering {
+    background-image: url("../../images/controlling-bg-right.svg");
+    background-repeat: no-repeat;
+    background-size: 200px 244px;
+    background-position: calc(50% + 673px) calc(50% + 236px);
+    background-color: $color-sacramento-state-green;
+    padding-top: 140px;
+    padding-bottom: 140px;
+}
+.discovering__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.discovering__heading {
+    max-width: 445px;
+    font-size: 48px;
+    line-height: 48px;
+    margin-right: 125px;
+    margin-bottom: 0;
+}
+.discovering__heading:before {
+    display: block;
+    content:"";
+    width: 50px;
+    height: 4px;
+    margin-bottom: 54px;
+    background-color: $color-light-coral;
+}

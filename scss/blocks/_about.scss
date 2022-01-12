@@ -1,0 +1,39 @@
+.about {
+    padding-top: 120px;
+    padding-bottom: 120px;
+    background-image: url("../../images/about-right-bg.svg");
+    background-repeat: no-repeat;
+    background-size: 358px 200px;
+    background-position: calc(50% + 675px) calc(50% + 117px);
+}
+.about__info {
+    display: flex;
+}
+.about__heading {
+    width: 350px;
+    padding-right: 45px;
+    font-size: 64px;
+    line-height: 100px;
+    margin-right: 30px;
+    margin-bottom: 0;
+}
+.about__emphasis {
+    font-style: normal;
+    color: $color-light-coral;
+}
+
+.about__desc:before {
+    display: block;
+    content: "";
+    width: 50px;
+    height: 4px;
+    margin-bottom: 79px;
+    background-color: $color-light-coral;
+}
+.about__desc {
+    position: relative;
+    max-width: 730px;
+    font-size: 18px;
+    line-height: 28px;
+    margin: 0;
+}
