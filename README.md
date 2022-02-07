@@ -15,7 +15,7 @@ EDUCATION
       I learned frontend development from zero to advanced with the help of senior
       developer who gave me feedbacks for my projects developed during my
       studies.
-    - I’m currently learning React Framework.
+    - I’m currently learning React Library.
 LANGUAGE
   - English
   - Russian (a little).
