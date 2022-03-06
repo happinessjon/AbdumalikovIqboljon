@@ -22,4 +22,3 @@ LANGUAGE
 
 INTERESTS
   - Big fan of football
-  - Crazy about playing DotA 1(Defence of the Ancients).
