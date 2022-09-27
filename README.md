@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdumalikov Iqboljon</h1>
 <h3 align="center">Entry-level Frontend developer from Uzbekistan 🤗</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/14374/screenshots/3147608/media/81669459ec186752d08de4d29a83e309.gif" />
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1282416/screenshots/2859710/media/b5dd6845c173e993240fafb24675e746.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=happinessjon&label=Profile%20views&color=0e75b6&style=flat" alt="happinessjon" /> </p>
 
