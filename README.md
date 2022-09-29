@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdumalikov Iqboljon</h1>
-<a href="https://happinessjon-portfolio.netlify.app/">Portfolio</a>
+<a href="https://happinessjon-portfolio.netlify.app/">Portfolio</a> Check it out! 🙂
 <h3 align="center">Entry-level Frontend developer from Uzbekistan 🤗</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1282416/screenshots/2859710/media/b5dd6845c173e993240fafb24675e746.gif" />
 
