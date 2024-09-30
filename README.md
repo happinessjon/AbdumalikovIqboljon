@@ -7,14 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/happinessjon" target="blank"><img src="https://img.shields.io/twitter/follow/happinessjon?logo=twitter&style=for-the-badge" alt="happinessjon" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js, Redux Toolkit, TypeScript**
-
-- 👯 I’m looking to collaborate on [Vuejs.uz](https://github.com/Zikoi5/docs-uz)
-
-- 💬 Ask me about **JavaScript, React, Vue.js**
-
-- 📫 How to reach me **happinessjonabdumalikov@gmail.com**
-
 - 📄 Know about my experiences [https://hh.ru/resume/f83387eeff0b0151690039ed1f7575434b3735](https://hh.ru/resume/f83387eeff0b0151690039ed1f7575434b3735)
 
 <h3 align="left">Connect with me:</h3>
