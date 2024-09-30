@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=happinessjon&label=Profile%20views&color=0e75b6&style=flat" alt="happinessjon" /> </p>
 
-- 📄 Know about my experiences [https://hh.ru/resume/f83387eeff0b0151690039ed1f7575434b3735](https://hh.ru/resume/f83387eeff0b0151690039ed1f7575434b3735)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
